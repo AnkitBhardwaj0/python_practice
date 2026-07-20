@@ -1,0 +1,8 @@
+
+name : ankit
+mark obtained:
+maths : 99
+english : 90
+hindi : 92
+social science : 95
+science : 97
