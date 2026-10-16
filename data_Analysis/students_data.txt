@@ -1,0 +1,6 @@
+student_id,name,class,city
+101,Aman,6,Patna
+102,Neha,7,Delhi
+103,Rahul,6,Mumbai
+104,Priya,8,Jaipur
+105,Arjun,7,Lucknow
